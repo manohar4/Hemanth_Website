@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Header from './components/Header';
 import Projects from './components/Projects';
@@ -42,19 +42,19 @@ function App() {
       <div className='-my-4 flex justify-center gap-5 overflow-hidden py-4 sm:gap-8' >
 
         <div className='relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 dark:bg-zinc-800 sm:w-72 sm:rounded-2xl rotate-2'>
-            <img className='absolute inset-0 h-full w-full object-cover' loading='lazy' src='https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80'></img>
+            <img alt='image1' className='absolute inset-0 h-full w-full object-cover' loading='lazy' src='https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80'></img>
         </div>
         <div className='relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 dark:bg-zinc-800 sm:w-72 sm:rounded-2xl -rotate-2'>
-            <img className='absolute inset-0 h-full w-full object-cover' loading='lazy' src='https://images.unsplash.com/photo-1553933899-131780ba04a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80'></img>
+            <img alt='image1' className='absolute inset-0 h-full w-full object-cover' loading='lazy' src='https://images.unsplash.com/photo-1553933899-131780ba04a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80'></img>
         </div>
         <div className='relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 dark:bg-zinc-800 sm:w-72 sm:rounded-2xl rotate-2'>
-            <img className='absolute inset-0 h-full w-full object-cover' loading='lazy' src='https://images.unsplash.com/photo-1550432163-9cb326104944?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'></img>
+            <img alt='image1' className='absolute inset-0 h-full w-full object-cover' loading='lazy' src='https://images.unsplash.com/photo-1550432163-9cb326104944?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'></img>
         </div>
         <div className='relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 dark:bg-zinc-800 sm:w-72 sm:rounded-2xl -rotate-2'>
-            <img className='absolute inset-0 h-full w-full object-cover' loading='lazy' src='https://images.unsplash.com/photo-1556075798-4825dfaaf498?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80'></img>
+            <img alt='image1' className='absolute inset-0 h-full w-full object-cover' loading='lazy' src='https://images.unsplash.com/photo-1556075798-4825dfaaf498?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80'></img>
         </div>
         <div className='relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 dark:bg-zinc-800 sm:w-72 sm:rounded-2xl rotate-2'>
-            <img className='absolute inset-0 h-full w-full object-cover' loading='lazy' src='https://images.unsplash.com/photo-1507646227500-4d389b0012be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80'></img>
+            <img alt='image1' className='absolute inset-0 h-full w-full object-cover' loading='lazy' src='https://images.unsplash.com/photo-1507646227500-4d389b0012be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80'></img>
         </div>
 
       </div>

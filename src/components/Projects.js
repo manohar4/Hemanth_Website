@@ -1,11 +1,11 @@
-import { useState } from 'react'
+
 import Logo from "../assets/images/logo.jpeg"
 
 
 
 
 export default function Example() {
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+
 
   return (
     <div className='max-w-7xl mx-auto text-left w-xl p-6 mt-24 mb-16 '>
@@ -16,7 +16,10 @@ export default function Example() {
 
     
     <div className='mt-16 sm:mt-20' >
-        <ul role='list' className='grid grid-cols-1 gap-x-12 gap-y-16 sm:grid-cols-2 lg:grid-cols-3'>
+        
+        <ul className='grid grid-cols-1 gap-x-12 gap-y-16 sm:grid-cols-2 lg:grid-cols-3' >
+            
+            
             <li className='group relative flex flex-col items-start' >
 
                 <div className='relative z-10 flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0' >
@@ -98,6 +101,7 @@ export default function Example() {
                             <span className="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                             <span className="relative z-10">Project Name</span>
                     </a>
+                    
                 </h2>
                 <p class="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">Creating technology to empower civilians to explore space on their own terms.</p>
                 
