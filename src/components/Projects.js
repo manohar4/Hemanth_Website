@@ -28,7 +28,7 @@ export default function Example() {
 
                 <h2 className='mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100' >
                     <div className='absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl'></div>
-                    <a target="_blank"  href='https://github.com/GvHemanth/-Sentimental-Analysis.-using-WebScraping-NLP'>
+                    <a target="_blank" rel="noreferrer"  href='https://github.com/GvHemanth/-Sentimental-Analysis.-using-WebScraping-NLP'>
                             <span className="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                             <span className="relative z-10">Sentimental Analysis using WebScraping NLP </span>
                     </a>
@@ -51,7 +51,7 @@ export default function Example() {
 
                 <h2 className='mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100' >
                     <div className='absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl'></div>
-                    <a  target="_blank"  href='https://github.com/GvHemanth/High-Memory-Chat-GPT-3.5-Turbo-ChatBot-Extension.'>
+                    <a  target="_blank" rel="noreferrer"  href='https://github.com/GvHemanth/High-Memory-Chat-GPT-3.5-Turbo-ChatBot-Extension.'>
                             <span className="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                             <span className="relative z-10">High-Memory-Chat-GPT-3.5-Turbo-ChatBot-Extension.</span>
                     </a>
@@ -74,7 +74,7 @@ export default function Example() {
 
                 <h2 className='mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100' >
                     <div className='absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl'></div>
-                    <a href='https://hoogle.com'>
+                    <a href='https://hoogle.com' target="_blank" rel="noreferrer">
                             <span className="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                             <span className="relative z-10">Project Name</span>
                     </a>
@@ -97,7 +97,7 @@ export default function Example() {
 
                 <h2 className='mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100' >
                     <div className='absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl'></div>
-                    <a href='https://hoogle.com'>
+                    <a href='https://hoogle.com' target="_blank" rel="noreferrer">
                             <span className="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                             <span className="relative z-10">Project Name</span>
                     </a>
@@ -122,7 +122,7 @@ export default function Example() {
 
                 <h2 className='mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100' >
                     <div className='absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl'></div>
-                    <a href='https://hoogle.com'>
+                    <a href='https://hoogle.com' target="_blank" rel="noreferrer">
                             <span className="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                             <span className="relative z-10">Project Name</span>
                     </a>
