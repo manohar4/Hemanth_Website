@@ -41,3 +41,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+.svgIcon{
+  filter: grayscale(100%) brightness(0.5) invert(1);
+}
+
+.svgIcon:hover{
+  filter: grayscale(100%) brightness(0) invert(1);
+}
