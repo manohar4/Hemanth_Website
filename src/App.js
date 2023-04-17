@@ -62,7 +62,7 @@ function App() {
       <h1 className='text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl max-w-3xl' >{homePageData.length ===0 ?"":homePageData["Hero Title"].Value}</h1>
       <p className='mt-6 text-base text-zinc-600 dark:text-zinc-400 max-w-3xl' >
       {homePageData.length ===0 ?"":homePageData["Hero Description"].Value}</p>
-
+      
       <div className='mt-6 flex gap-6'>
       
 
@@ -90,8 +90,12 @@ function App() {
         }
        
       </div>
+      <button class="rounded-md bg-teal-800 text-teal-300   hover:text-teal-500 hover:bg-teal-900  px-4 py-2 mt-8"><a href={ homePageData.length ===0 ?"": homePageData["Resume"].Attachment[0].url}  target="_blank" rel="noreferrer">
+      ➞ Resume
+      </a> </button>
       </div>
-
+      
+      
 
       <div className='-my-4 flex justify-center gap-5 overflow-hidden py-4 sm:gap-8' >
 
