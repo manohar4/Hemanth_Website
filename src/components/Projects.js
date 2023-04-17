@@ -1,6 +1,5 @@
 
-import Logo from "../assets/images/logo.jpeg"
-import { useState,useEffect, useContext} from 'react';
+import { useContext} from 'react';
 import {FetchProjectsDetails} from '../pages/Context';
 
 

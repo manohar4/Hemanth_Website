@@ -35,7 +35,6 @@ function App() {
   
   const getProjectsData = async () =>{
     const records = await base('Projects Data').select({maxRecords: 100,sort:[{field: "ProjectID"}]}).firstPage();  
-    var projectarray = [];
     projects = await records.reduce( function (r, a) {
       r["records"] = r["records"] || []
       r["records"].push(a.fields);
@@ -80,7 +79,7 @@ function App() {
 
 
                 <div className='w-[24px] h-auto svgIcon'>
-                  <img className='svgIcon'  src={homePageData["Links"].Attachment[item].url}></img>
+                  <img alt='logos' className='svgIcon'  src={homePageData["Links"].Attachment[item].url}></img>
                 </div>     
                
 
