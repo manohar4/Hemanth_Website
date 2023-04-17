@@ -22,18 +22,18 @@ export default function Example() {
             
             <li className='group relative flex flex-col items-start' >
 
-                <div className='relative z-10 flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0' >
-                <img alt="" loading="lazy" width="32" height="32" decoding="async" data-nimg="1" class="h-8 w-8" src={Logo}></img>
+                <div className='relative overflow-y-hidden z-10 flex h-36 w-full  items-center justify-center rounded-lg bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0' >
+                <img alt="" loading="lazy"  decoding="async" data-nimg="1" class="" src="https://alphateds.com/wp-content/uploads/2021/08/SentimentAnalysisNepaliText.gif"></img>
                 </div>
 
                 <h2 className='mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100' >
                     <div className='absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl'></div>
-                    <a href='https://hoogle.com'>
+                    <a target="_blank"  href='https://github.com/GvHemanth/-Sentimental-Analysis.-using-WebScraping-NLP'>
                             <span className="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
-                            <span className="relative z-10">Project Name</span>
+                            <span className="relative z-10">Sentimental Analysis using WebScraping NLP </span>
                     </a>
                 </h2>
-                <p class="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">Creating technology to empower civilians to explore space on their own terms.</p>
+                <p class="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">extracting textual data articles from the given URL's using Beautiful Soup and performing text analysis to compute variables that are explained herein.</p>
                 
                 <p className='relative z-10 mt-6 flex text-sm font-medium text-zinc-400 transition group-hover:text-teal-500 dark:text-zinc-200' >
                     
@@ -45,18 +45,18 @@ export default function Example() {
             
             <li className='group relative flex flex-col items-start' >
 
-                <div className='relative z-10 flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0' >
-                <img alt="" loading="lazy" width="32" height="32" decoding="async" data-nimg="1" class="h-8 w-8" src={Logo}></img>
+            <div className='relative overflow-y-hidden z-10 flex h-36 w-full  items-center justify-center rounded-lg bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0' >
+                <img alt="" loading="lazy"  decoding="async" data-nimg="1" class="" src="https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-OpenAI-logo.jpg?p=1"></img>
                 </div>
 
                 <h2 className='mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100' >
                     <div className='absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl'></div>
-                    <a href='https://hoogle.com'>
+                    <a  target="_blank"  href='https://github.com/GvHemanth/High-Memory-Chat-GPT-3.5-Turbo-ChatBot-Extension.'>
                             <span className="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
-                            <span className="relative z-10">Project Name</span>
+                            <span className="relative z-10">High-Memory-Chat-GPT-3.5-Turbo-ChatBot-Extension.</span>
                     </a>
                 </h2>
-                <p class="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">Creating technology to empower civilians to explore space on their own terms.</p>
+                <p class="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">This browser extension includes an advanced chatbot that utilizes state-of-the-art language processing ChatGpt 3.5 Turbo Model.</p>
                 
                 <p className='relative z-10 mt-6 flex text-sm font-medium text-zinc-400 transition group-hover:text-teal-500 dark:text-zinc-200' >
                     
