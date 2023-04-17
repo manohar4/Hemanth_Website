@@ -74,7 +74,7 @@ function App() {
 
               
 
-              <a className='group -m-1 p-1' aria-label="Github" target="_blank" rel="noreferrer" href={item}>
+              <a className='group -m-1 p-1' aria-label="Github" target="_blank" rel="noreferrer" href={homePageData["Links"].links[item]}>
 
 
 
